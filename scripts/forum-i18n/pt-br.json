@@ -1,0 +1,372 @@
+{
+  "can-custom-lobby-cheat-codes-be-used-in-ranked": {
+    "title": "Posso usar códigos de cheat do Fortnite no matchmaking ranqueado?",
+    "excerpt": "Resposta rápida do guia de lobby de prática: comandos integrados só funcionam em partidas personalizadas com cheats ativados.",
+    "flair": "Guia e perguntas",
+    "category": "Geral",
+    "body": [
+      "Não. Creative e lobbies com bots são só para treinar. Isso não vale no matchmaking ranqueado nem em instâncias normais.",
+      "Use o Creative para aprender suavidade do aim, alcances de ESP e loadouts. O guia também explica a diferença entre drills de prática e cheats privados de Fortnite."
+    ],
+    "comments": [
+      {
+        "author": "mid_or_feed",
+        "age": "há 1 hora",
+        "body": "Certo: carregue um mapa de aim no Creative ou lobby com bots antes de mexer nos presets de ranqueado."
+      },
+      {
+        "author": "ancient_archivist",
+        "age": "há 48 min",
+        "body": "O guia cobre drills de escopeta, sniper e AR. Mantenha presets de ranqueado conservadores depois de treinar."
+      },
+      {
+        "author": "push_first",
+        "age": "há 35 min",
+        "body": "Boa distinção. Ferramentas de prática no Creative não são recursos de ranqueado."
+      }
+    ]
+  },
+  "how-to-enable-the-fortnite-2-console": {
+    "title": "Como ativar o console de desenvolvedor do Fortnite?",
+    "excerpt": "Abra Configurações → Opções → Avançado e ative o console. Aqui o setup rápido do nosso passo a passo.",
+    "flair": "Guia e perguntas",
+    "category": "Geral",
+    "body": [
+      "Abra Configurações, escolha Opções, depois Opções avançadas e ative o console de desenvolvedor. Em um lobby personalizado, pressione a tecla do console (geralmente til) e digite o comando. O host precisa ativar cheats nas configurações do lobby.",
+      "Se um comando não fizer nada, confirme primeiro se os cheats estão ativos nesse lobby e verifique a sintaxe."
+    ],
+    "comments": [
+      {
+        "author": "pos4_roamer",
+        "age": "há 3 horas",
+        "body": "Você também pode mapear a tecla do console nos atalhos se o til não existir no seu teclado."
+      },
+      {
+        "author": "carry_curious",
+        "age": "há 2 horas",
+        "body": "Comandos exigem permissões certas no lobby; espectadores podem não usar comandos de economia."
+      }
+    ]
+  },
+  "practice-fortnite-high-ground-safely": {
+    "title": "Qual a forma mais segura de praticar posições de high ground?",
+    "excerpt": "Use Creative ou lobby com bots e ESP para estudar linhas de visão e lute sem ficar olhando os overlays.",
+    "flair": "Guia e perguntas",
+    "category": "Guias e builds",
+    "body": [
+      "Pratique no Creative ou em lobby com bots. Ative caixas de ESP por um momento para inspecionar ângulos de high ground e posições de drop, depois lute com overlays minimizados.",
+      "Repita o mesmo caminho de zona algumas vezes para fixar as linhas de visão sem esperar uma partida ranqueada completa."
+    ],
+    "comments": [
+      {
+        "author": "stack_and_pull",
+        "age": "há 5 horas",
+        "body": "Dou peek com ESP ligado, desligo as caixas e confiro o mesmo ângulo de novo. Ajuda na cobertura de high ground."
+      },
+      {
+        "author": "map_reader",
+        "age": "há 4 horas",
+        "body": "Repetir o mesmo caminho de zona no Creative é melhor que aprender só no ranqueado."
+      }
+    ]
+  },
+  "what-to-check-after-a-fortnite-2-patch": {
+    "title": "O que verificar antes de jogar depois de um patch do Fortnite?",
+    "excerpt": "O checklist do dia do patch recomenda status do build, atualizar e testar em lobby com bots antes de entrar na fila.",
+    "flair": "Guia e perguntas",
+    "category": "Patches",
+    "body": [
+      "Confira primeiro o aviso de build/status atual. Após atualização do jogo, espere um build compatível, atualize o loader e valide o setup em lobby com bots ou instâncias antes de voltar ao ranqueado.",
+      "Se algo se comportar de forma estranha, pare e leia as notas de status em vez de assumir que o setup antigo ainda vale. O checklist detalha a rotina do dia do patch."
+    ],
+    "comments": [
+      {
+        "author": "farm_pattern",
+        "age": "há 8 horas",
+        "body": "Testar depois da atualização antes do ranqueado era o que eu pulava. Agora leio a nota do build e faço um lobby com bots rápido."
+      },
+      {
+        "author": "support_main_5",
+        "age": "há 7 horas",
+        "body": "Concordo. Se build/status não atualizou, espere. Checklist é melhor que chutar."
+      }
+    ]
+  },
+  "fortnite-2-lite-or-pro-hero-scripts": {
+    "title": "Lite ou Pro: qual tier inclui aimbot de jogador?",
+    "excerpt": "Nosso guia comparativo explica a diferença: Lite foca em ferramentas de visão; Pro adiciona módulos de script.",
+    "flair": "Guia e perguntas",
+    "category": "Comunidade",
+    "body": [
+      "Segundo o guia comparativo, Lite centra em awareness de mapa como ESP de jogador, info de drop e loot, zoom e opções stream-proof. Pro inclui tudo isso e adiciona aimbot de jogador como Aimbot, Smooth Aim, Sticky Aim, Bone Priority e macros de tecla.",
+      "O melhor encaixe depende dos recursos que você precisa. Leia a comparação completa antes de escolher."
+    ],
+    "comments": [
+      {
+        "author": "one_more_game",
+        "age": "há 10 horas",
+        "body": "A página comparativa é útil porque mostra quais módulos vêm em cada tier, não só manchetes."
+      }
+    ]
+  },
+  "how-to-learn-weapon-aim-in-creative": {
+    "title": "Como praticar aim com armas sem esperar uma partida real?",
+    "excerpt": "Crie uma ilha no Creative ou lobby com bots e treine perfis de escopeta, sniper e AR com resets repetíveis.",
+    "flair": "Guia e perguntas",
+    "category": "Guias e builds",
+    "body": [
+      "Crie uma ilha no Creative ou lobby com bots. Pratique um perfil de arma por vez—escopeta, sniper e depois AR—e reinicie entre tentativas.",
+      "Para timing realista, use seus valores de suavidade de ranqueado no Creative antes de ativar aimbot em partidas ao vivo. O guia linkado cobre o fluxo completo de prática."
+    ],
+    "comments": [
+      {
+        "author": "mid_or_feed",
+        "age": "há 20 horas",
+        "body": "Comece com um alvo bot e repita a mesma cadeia de skills até o tracking parecer automático."
+      },
+      {
+        "author": "ancient_archivist",
+        "age": "há 18 horas",
+        "body": "Mantenha presets de ranqueado conservadores—o Creative pode esconder o quanto seu aim parece agressivo nos replays."
+      }
+    ]
+  },
+  "what-does-fortnite-map-awareness-include": {
+    "title": "O que o awareness de mapa inclui no guia?",
+    "excerpt": "Resumo rápido de info de jogador, baús, loot e furtividade do guia de map awareness.",
+    "flair": "Guia e perguntas",
+    "category": "Guias e builds",
+    "body": [
+      "O guia cobre ESP de jogador, marcadores de baú e reboot, informação de loot, alertas de furtividade e últimas posições vistas. As opções exatas dependem do tier de produto escolhido.",
+      "Recomenda começar com um layout contido e ativar só a informação que você consegue ler confortavelmente em uma luta em equipe."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Mantenha o overlay limpo: comece com indicadores principais e ajuste alcance e visibilidade um de cada vez."
+      }
+    ]
+  },
+  "how-to-set-up-map-overlay": {
+    "title": "Como configurar o overlay de mapa na primeira vez?",
+    "excerpt": "Comece com opções básicas de exibição, confirme o overlay no Creative e ajuste uma configuração por vez.",
+    "flair": "Guia e perguntas",
+    "category": "Guias e builds",
+    "body": [
+      "Use o guia de setup para ativar o overlay, escolher cores legíveis e verificar se os indicadores não cobrem partes importantes da interface.",
+      "Teste seu layout em lobby com bots antes de confiar nele em partida ao vivo. Uma configuração simples é mais fácil de entender que ligar tudo de uma vez."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Se a tela parecer cheia, reduza indicadores antes de mudar tamanho ou posição."
+      }
+    ]
+  },
+  "what-zoom-settings-are-comfortable": {
+    "title": "Quais configurações de zoom da câmera são confortáveis?",
+    "excerpt": "O guia de zoom foca em uma visão que melhora o contexto do mapa sem dificultar o controle do jogador.",
+    "flair": "Guia e perguntas",
+    "category": "Guias e builds",
+    "body": [
+      "Não existe um zoom ideal para todos. O guia recomenda ajustar aos poucos e conferir se você ainda acompanha o jogador, alcances de armas e lutas próximas.",
+      "Tenha um reset rápido para a câmera padrão para comparar a visão mais ampla e voltar ao enquadramento familiar."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Mude um passo de cada vez e jogue uma sessão curta no Creative antes de fixar uma nova distância de câmera."
+      }
+    ]
+  },
+  "how-to-tune-script-delay-settings": {
+    "title": "Como os atrasos afetam o aimbot de jogador?",
+    "excerpt": "Pergunta prática sobre timing, legibilidade de combo e por que o guia de aimbot recomenda ajustes conservadores.",
+    "flair": "Guia e perguntas",
+    "category": "Guias e builds",
+    "body": [
+      "Ajustes de atraso controlam o espaçamento entre ações automatizadas. O guia recomenda começar com timings mais lentos e testar em prática antes de mudar.",
+      "Uma sequência consistente é mais fácil de revisar e afinar do que alterar vários valores de timing ao mesmo tempo."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Anote cada configuração que testar para voltar ao último setup que se comportou como esperado."
+      }
+    ]
+  },
+  "how-to-practice-auto-combos": {
+    "title": "Qual uma boa forma de praticar um aimbot?",
+    "excerpt": "Use um setup de jogador repetível, aprenda a sequência e verifique timing de armas e itens em um lobby controlado.",
+    "flair": "Guia e perguntas",
+    "category": "Guias e builds",
+    "body": [
+      "Escolha um oponente e um combo por vez para praticar. O guia mostra sequências de exemplo e explica seleção de alvo e ordem de habilidades.",
+      "Um lobby personalizado permite repetir a sequência e ver quais passos precisam de ajuste sem a pressão de partida ao vivo."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Aprenda a sequência manual primeiro; isso facilita perceber quando uma configuração está fora de tempo."
+      }
+    ]
+  },
+  "what-is-in-the-elite-tier": {
+    "title": "Quais ferramentas extras vêm no tier Elite?",
+    "excerpt": "O guia Elite explica como os módulos utilitários extras se comparam aos conjuntos Lite e Pro.",
+    "flair": "Guia e perguntas",
+    "category": "Geral",
+    "body": [
+      "O guia descreve Elite como Lite e Pro mais utilitários como Loot Assist, Auto Finish, Auto Shield Break e Skin Changer.",
+      "Também cobre quem pode se beneficiar dos módulos extras e por que entender primeiro o conjunto de recursos mais simples faz sentido."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Compare os recursos incluídos às suas necessidades antes de escolher o tier; a comparação completa está linkada no guia."
+      }
+    ]
+  },
+  "how-do-lite-and-pro-differ": {
+    "title": "Na prática, como Lite e Pro diferem?",
+    "excerpt": "Lite foca em awareness; Pro adiciona scripts de jogador—aqui a versão curta.",
+    "flair": "Guia e perguntas",
+    "category": "Geral",
+    "body": [
+      "O guia comparativo descreve Lite focado em ferramentas de awareness como ESP, info de drop e loot e zoom. Pro adiciona automação de skills sobre essa base.",
+      "A escolha certa depende se você precisa só de informação de mapa ou também dos módulos de script do comparativo."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Use a comparação lado a lado completa para checar módulos específicos antes de decidir."
+      }
+    ]
+  },
+  "what-to-know-about-skin-changer": {
+    "title": "O que devo saber sobre a utilidade Skin Changer?",
+    "excerpt": "O guia do produto explica como funcionam as pré-visualizações de cosméticos e o que esperar da utilidade.",
+    "flair": "Guia e perguntas",
+    "category": "Geral",
+    "body": [
+      "O guia descreve Skin Changer como utilidade de pré-visualização local de cosméticos. Explica setup, opções suportadas e como restaurar a aparência padrão.",
+      "Revise as notas de compatibilidade e siga as instruções de setup atuais antes de usar a utilidade."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Mudanças cosméticas são pré-visualizações locais; veja o guia para limitações e passos de setup atuais."
+      }
+    ]
+  },
+  "what-to-do-if-eac-cannot-verify": {
+    "title": "O que fazer se o Easy Anti-Cheat não conseguir verificar minha instalação do Fortnite?",
+    "excerpt": "Comece com verificação de arquivos da Epic e reinício limpo antes de assumir restrição de conta.",
+    "flair": "Guia e perguntas",
+    "category": "Patches",
+    "body": [
+      "O guia de solução de problemas diz que a mensagem pode vir de arquivos do jogo ou conflitos de software e não significa sempre ban de conta. Verifique os arquivos do Fortnite primeiro pelo Epic Games Launcher.",
+      "Também recomenda sair completamente do cliente do Fortnite, reiniciar o PC e checar overlays conflitantes antes de passos mais drásticos."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Teste um lançamento normal pela Epic antes de abrir outro software para isolar a causa."
+      }
+    ]
+  },
+  "how-does-an-external-loader-work": {
+    "title": "O que significa «external loader»?",
+    "excerpt": "O guia de software externo explica o termo e o setup geral descrito no site.",
+    "flair": "Guia e perguntas",
+    "category": "Geral",
+    "body": [
+      "O artigo usa «external» para software que roda separado do processo do Fortnite e mostra a interface como overlay.",
+      "Discute a arquitetura em alto nível e explica setup, atualizações de patch e diferenças entre ferramentas externas e internas."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Confira compatibilidade e informações de status sempre que o Fortnite receber atualização."
+      }
+    ]
+  },
+  "how-to-check-stream-proof-capture": {
+    "title": "Como verificar se o OBS captura um overlay?",
+    "excerpt": "O guia stream-proof recomenda gravar um teste curto e revisar a reprodução antes de transmitir.",
+    "flair": "Guia e perguntas",
+    "category": "Guias e builds",
+    "body": [
+      "Grave um teste local curto com a cena e modo de captura exatos do OBS que você vai usar na live e revise a gravação por elementos de overlay.",
+      "O guia recomenda testar game capture e display capture separadamente, pois métodos e setups multi-monitor podem se comportar de forma diferente."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Não confie só na pré-visualização; revise uma gravação salva da mesma cena que você vai transmitir."
+      }
+    ]
+  },
+  "what-to-do-after-hwid-change": {
+    "title": "O que verificar depois de trocar de PC ou hardware?",
+    "excerpt": "O guia HWID cobre checagens comuns de setup e quando contatar o suporte para reset de conta ou dispositivo.",
+    "flair": "Guia e perguntas",
+    "category": "Geral",
+    "body": [
+      "Comece pelas instruções de conta e dispositivo do seu produto. O guia explica dúvidas comuns de HWID e quando um pedido de reset pode ser necessário.",
+      "Evite mudar várias configurações do sistema de uma vez. Se o produto não reconhecer seu dispositivo, contate o suporte com os detalhes do erro."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Use o caminho oficial de suporte para resets de dispositivo em vez de ferramentas não relacionadas."
+      }
+    ]
+  },
+  "what-to-check-before-installing-tools": {
+    "title": "O que revisar antes de instalar uma ferramenta nova?",
+    "excerpt": "Confira passos oficiais de setup, notas de compatibilidade atuais e informações de suporte antes de continuar.",
+    "flair": "Guia e perguntas",
+    "category": "Comunidade",
+    "body": [
+      "Leia primeiro as informações de recursos e setup, confirme que combina com seu sistema e veja as notas de atualização/status atuais.",
+      "O guia do site descreve os grupos de recursos disponíveis e linka artigos de setup mais específicos por módulo."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Use as páginas de produto e suporte linkadas como fonte da verdade sobre disponibilidade e compatibilidade atuais."
+      }
+    ]
+  },
+  "how-to-choose-fortnite-2-product-tier": {
+    "title": "Como escolher o tier de produto Fortnite certo?",
+    "excerpt": "Compare os conjuntos de recursos primeiro e siga checkout e instruções de setup oficiais para sua escolha.",
+    "flair": "Guia e perguntas",
+    "category": "Comunidade",
+    "body": [
+      "O guia de compra recomenda comparar recursos incluídos e escolher o tier que atende suas necessidades antes do checkout oficial.",
+      "Cobre fluxo de compra, acesso à conta, download do build atual e checagem de setup antes de iniciar."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "Do guia",
+        "body": "Se tiver dúvida de pagamento ou conta, use a página de suporte do site e evite compartilhar detalhes de compra em público."
+      }
+    ]
+  }
+}

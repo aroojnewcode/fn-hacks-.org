@@ -1,0 +1,372 @@
+{
+  "can-custom-lobby-cheat-codes-be-used-in-ranked": {
+    "title": "Can I use Fortnite cheat codes in Ranked matchmaking?",
+    "excerpt": "Quick answer from the practice lobby guide: built-in lobby commands only work in custom matches with cheats enabled.",
+    "flair": "Guide Q&A",
+    "category": "General",
+    "body": [
+      "No. Creative practice and bot lobbies are for practice only. They do not carry into Ranked matchmaking or instances.",
+      "Use Creative to learn aim smoothness, ESP ranges, and loadouts. The guide also explains the difference between practice drills and private fortnite cheats."
+    ],
+    "comments": [
+      {
+        "author": "mid_or_feed",
+        "age": "1 hour ago",
+        "body": "Correct: load a Creative aim map or bot lobby before touching Ranked presets."
+      },
+      {
+        "author": "ancient_archivist",
+        "age": "48 min. ago",
+        "body": "The guide covers staff, bow, and gun drills. Keep Ranked presets conservative after practice."
+      },
+      {
+        "author": "push_first",
+        "age": "35 min. ago",
+        "body": "Useful distinction. Creative practice tools are not Ranked features."
+      }
+    ]
+  },
+  "how-to-enable-the-fortnite-2-console": {
+    "title": "How do I turn on the Fortnite developer console?",
+    "excerpt": "Open Settings → Options → Advanced and enable the console. Here is the quick setup from our walkthrough.",
+    "flair": "Guide Q&A",
+    "category": "General",
+    "body": [
+      "Open Settings, choose Options, then open Advanced Options and enable the developer console. In a custom lobby, press the console key (usually tilde) and enter the command. You also need the host to enable cheats in the lobby settings.",
+      "If a command does nothing, first confirm cheats are enabled for that lobby and check the command syntax."
+    ],
+    "comments": [
+      {
+        "author": "pos4_roamer",
+        "age": "3 hours ago",
+        "body": "You can also bind the console key in the hotkey settings if tilde is unavailable on your keyboard layout."
+      },
+      {
+        "author": "carry_curious",
+        "age": "2 hours ago",
+        "body": "Commands need the right lobby permissions; spectators may not be able to use economy commands."
+      }
+    ]
+  },
+  "practice-fortnite-high-ground-safely": {
+    "title": "What is the safest way to practice high-ground spots?",
+    "excerpt": "Use Creative or a bot lobby with ESP to study sight lines, then fight without staring at overlays.",
+    "flair": "Guide Q&A",
+    "category": "Guides & Builds",
+    "body": [
+      "Practice in Creative or a bot lobby. Enable ESP boxes briefly to inspect high-ground angles and drop positions, then fight with overlays minimized.",
+      "Repeat the same zone clear a few times so sight lines stick without waiting for a full Ranked match."
+    ],
+    "comments": [
+      {
+        "author": "stack_and_pull",
+        "age": "5 hours ago",
+        "body": "I peek with ESP on, then disable boxes and re-check the same angle. Helps for high-ground coverage."
+      },
+      {
+        "author": "map_reader",
+        "age": "4 hours ago",
+        "body": "Replaying the same zone path in Creative beats learning only in Ranked."
+      }
+    ]
+  },
+  "what-to-check-after-a-fortnite-2-patch": {
+    "title": "What should I check before playing after an Fortnite patch?",
+    "excerpt": "The patch-day checklist recommends checking build status, updating, and testing in a bot lobby before queueing.",
+    "flair": "Guide Q&A",
+    "category": "Patch Talk",
+    "body": [
+      "Check the current build/status notice first. After a game update, wait for a compatible build, update the loader, then verify the setup in a bot or instances lobby before returning to ranked play.",
+      "If anything behaves unexpectedly, stop and review the status notes rather than assuming the old setup still applies. The checklist covers the patch-day routine in more detail."
+    ],
+    "comments": [
+      {
+        "author": "farm_pattern",
+        "age": "8 hours ago",
+        "body": "Testing after the update before Ranked is the part I used to skip. Now I check the build note and run a quick bot lobby."
+      },
+      {
+        "author": "support_main_5",
+        "age": "7 hours ago",
+        "body": "Agree. If the build/status has not caught up, wait. A checklist is better than guessing."
+      }
+    ]
+  },
+  "fortnite-2-lite-or-pro-hero-scripts": {
+    "title": "Lite or Pro: which tier includes player aimbot?",
+    "excerpt": "Our comparison guide breaks down the difference: Lite focuses on vision tools; Pro adds script modules.",
+    "flair": "Guide Q&A",
+    "category": "Community",
+    "body": [
+      "According to the comparison guide, Lite centers on map awareness features such as player ESP, drop and loot information, zoom, and stream-proof options. Pro includes those features and adds player aimbot such as Aimbot, Smooth Aim, Sticky Aim, Bone Priority, and Hotkey macros.",
+      "The best fit depends on which features you need. Read the full comparison before choosing."
+    ],
+    "comments": [
+      {
+        "author": "one_more_game",
+        "age": "10 hours ago",
+        "body": "The comparison page is useful because it shows which modules are included in each tier instead of only listing headlines."
+      }
+    ]
+  },
+  "how-to-learn-weapon-aim-in-creative": {
+    "title": "How can I practice weapon aim without waiting for a real match?",
+    "excerpt": "Create a Creative island or bot lobby and drill staff, bow, and gun profiles with repeatable resets.",
+    "flair": "Guide Q&A",
+    "category": "Guides & Builds",
+    "body": [
+      "Create a Creative island or bot lobby. Practice one class profile at a time—staff, bow, then gun—and reset between attempts.",
+      "For realistic timing, use your Ranked smoothness values in Creative before enabling aimbot in live games. The linked guide covers the full practice workflow."
+    ],
+    "comments": [
+      {
+        "author": "mid_or_feed",
+        "age": "20 hours ago",
+        "body": "Start with a bot target and repeat the same skill chain until the tracking feels automatic."
+      },
+      {
+        "author": "ancient_archivist",
+        "age": "18 hours ago",
+        "body": "Keep Ranked presets conservative—Creative can hide how snappy your aim looks in replays."
+      }
+    ]
+  },
+  "what-does-fortnite-map-awareness-include": {
+    "title": "What does map awareness include in the guide?",
+    "excerpt": "A quick breakdown of player, chest, loot, and stealth information covered by the map awareness guide.",
+    "flair": "Guide Q&A",
+    "category": "Guides & Builds",
+    "body": [
+      "The guide covers player ESP, chest and reboot markers, loot information, stealth alerts, and last-seen positions. The exact options depend on the selected product tier.",
+      "It recommends starting with a restrained layout and enabling only the information you can read comfortably during a team fight."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Keep the overlay uncluttered: begin with the core indicators, then adjust the range and visibility settings one at a time."
+      }
+    ]
+  },
+  "how-to-set-up-map-overlay": {
+    "title": "How should I set up the map overlay for the first time?",
+    "excerpt": "Start with the basic display options, confirm the overlay in a creative session, then adjust one setting at a time.",
+    "flair": "Guide Q&A",
+    "category": "Guides & Builds",
+    "body": [
+      "Use the setup guide to enable the overlay, choose readable colors, and check that the indicators do not cover important parts of the game interface.",
+      "Test your layout in a bot lobby before relying on it in a live match. A simple configuration is easier to understand than turning on every option immediately."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "If the screen feels crowded, reduce the number of indicators before changing their size or position."
+      }
+    ]
+  },
+  "what-zoom-settings-are-comfortable": {
+    "title": "What camera zoom settings are comfortable to play with?",
+    "excerpt": "The zoom guide focuses on finding a view that improves map context without making your player hard to control.",
+    "flair": "Guide Q&A",
+    "category": "Guides & Builds",
+    "body": [
+      "There is no single ideal zoom value for every player. The guide recommends adjusting gradually and checking that you can still track your player, spell ranges, and nearby fights.",
+      "Keep a quick reset to the default camera view available so you can compare the wider view and return to familiar framing."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Change one step at a time and play a short creative session before settling on a new camera distance."
+      }
+    ]
+  },
+  "how-to-tune-script-delay-settings": {
+    "title": "How do delay settings affect player aimbot?",
+    "excerpt": "A practical question about timing, combo readability, and why the aimbot guide recommends conservative tuning.",
+    "flair": "Guide Q&A",
+    "category": "Guides & Builds",
+    "body": [
+      "Delay settings control the spacing between automated actions. The guide recommends starting with slower timings and testing them in a practice setting before making changes.",
+      "A consistent sequence is easier to review and tune than changing several timing values at once."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Keep a note of each configuration you try so you can return to the last setup that behaved as expected."
+      }
+    ]
+  },
+  "how-to-practice-auto-combos": {
+    "title": "What is a good way to practice an aimbot?",
+    "excerpt": "Use a repeatable player setup, learn the sequence, and check each spell and item timing in a controlled lobby.",
+    "flair": "Guide Q&A",
+    "category": "Guides & Builds",
+    "body": [
+      "Choose one player and one combo to practice at a time. The guide walks through example sequences and explains how target selection and ability order fit together.",
+      "A custom lobby lets you repeat the sequence and see which steps need adjustment without the pressure of a live match."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Learn the manual sequence first; that makes it much easier to spot when a configuration is mistimed."
+      }
+    ]
+  },
+  "what-is-in-the-elite-tier": {
+    "title": "What additional tools are included in the Elite tier?",
+    "excerpt": "The Elite guide explains how its extra utility modules compare with the Lite and Pro feature sets.",
+    "flair": "Guide Q&A",
+    "category": "General",
+    "body": [
+      "The guide describes Elite as including the Lite and Pro feature sets plus additional utilities such as Loot Assist, Auto Finish, Auto Shield Break, and Skin Changer.",
+      "It also covers who may benefit from the extra modules and why it makes sense to understand the simpler feature set first."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Compare the included features against your needs before choosing a tier; the full comparison is linked in the guide."
+      }
+    ]
+  },
+  "how-do-lite-and-pro-differ": {
+    "title": "How do Lite and Pro differ in practice?",
+    "excerpt": "Lite centers on awareness features, while Pro adds player script tools; here is the short version.",
+    "flair": "Guide Q&A",
+    "category": "General",
+    "body": [
+      "The comparison guide describes Lite as focused on awareness tools such as ESP, drop and loot information, and zoom. Pro adds skill automation features on top of that foundation.",
+      "The right choice depends on whether you need map information alone or also want the additional script modules described in the comparison."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Use the full side-by-side comparison to check specific modules before making a decision."
+      }
+    ]
+  },
+  "what-to-know-about-skin-changer": {
+    "title": "What should I know about the Skin Changer utility?",
+    "excerpt": "The product guide explains how cosmetic previews work and what to expect from the utility.",
+    "flair": "Guide Q&A",
+    "category": "General",
+    "body": [
+      "The guide describes Skin Changer as a local cosmetic preview utility. It explains setup, supported options, and how to restore the default appearance.",
+      "Review the compatibility notes and follow the current setup instructions before using the utility."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Cosmetic changes are local previews; check the guide for current limitations and setup steps."
+      }
+    ]
+  },
+  "what-to-do-if-eac-cannot-verify": {
+    "title": "What should I do if EAC cannot verify my Fortnite install?",
+    "excerpt": "Start with Epic file verification and a clean restart before assuming the issue is an account restriction.",
+    "flair": "Guide Q&A",
+    "category": "Patch Talk",
+    "body": [
+      "The troubleshooting guide says the message can result from game-file problems or software conflicts and does not always mean an account ban. First verify Fortnite files through Epic.",
+      "It also recommends fully exiting the Fortnite client, restarting the PC, and checking for conflicting overlays before trying more disruptive steps."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Test a normal Epic launch before starting other software so you can narrow down the cause."
+      }
+    ]
+  },
+  "how-does-an-external-loader-work": {
+    "title": "What does “external loader” mean?",
+    "excerpt": "The external software guide explains the term and outlines the general setup described on the site.",
+    "flair": "Guide Q&A",
+    "category": "General",
+    "body": [
+      "The article uses “external” to describe software that runs separately from the Fortnite process and presents its interface as an overlay.",
+      "It discusses the architecture at a high level and explains setup, patch updates, and the differences described between external and internal tools."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Check compatibility and current status information whenever Fortnite receives an update."
+      }
+    ]
+  },
+  "how-to-check-stream-proof-capture": {
+    "title": "How can I check whether OBS captures an overlay?",
+    "excerpt": "The stream-proof setup guide recommends recording a short test and checking the playback before streaming.",
+    "flair": "Guide Q&A",
+    "category": "Guides & Builds",
+    "body": [
+      "Record a short local test with the exact OBS scene and capture mode you plan to use, then review the playback for any overlay elements.",
+      "The guide recommends testing game capture and display capture separately, since capture methods and multi-monitor setups can behave differently."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Do not rely on the preview alone; review a saved recording from the same scene you intend to stream."
+      }
+    ]
+  },
+  "what-to-do-after-hwid-change": {
+    "title": "What should I check after changing PCs or hardware?",
+    "excerpt": "The HWID guide covers common setup checks and when to contact support for an account or device reset.",
+    "flair": "Guide Q&A",
+    "category": "General",
+    "body": [
+      "Start by checking the account and device instructions for your product. The guide explains common HWID questions and when a reset request may be needed.",
+      "Avoid changing several system settings at once. If the product does not recognize your device, contact support with the relevant error details."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Use the official support path for device resets instead of relying on unrelated unrelated tools."
+      }
+    ]
+  },
+  "what-to-check-before-installing-tools": {
+    "title": "What should I review before installing a new tool?",
+    "excerpt": "Check the official setup steps, current compatibility notes, and support information before proceeding.",
+    "flair": "Guide Q&A",
+    "category": "Community",
+    "body": [
+      "Read the feature and setup information first, confirm that it matches your system, and check the current update/status notes.",
+      "The site guide describes the available feature groups and links to more specific setup articles for individual modules."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "Use the linked product and support pages as the source of truth for current availability and compatibility."
+      }
+    ]
+  },
+  "how-to-choose-fortnite-2-product-tier": {
+    "title": "How do I choose the right Fortnite product tier?",
+    "excerpt": "Compare the feature sets first, then follow the official checkout and setup instructions for your selection.",
+    "flair": "Guide Q&A",
+    "category": "Community",
+    "body": [
+      "The buying guide recommends comparing included features and choosing the tier that fits your needs before continuing through the official checkout.",
+      "It covers the purchase flow, account access, downloading the current build, and checking setup instructions before launching."
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "From the guide",
+        "body": "If you have a payment or account question, use the site support page and avoid sharing purchase details publicly."
+      }
+    ]
+  }
+}

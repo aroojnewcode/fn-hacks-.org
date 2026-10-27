@@ -1,0 +1,375 @@
+import type { ForumPostPack } from '../types';
+
+/** Forum discussion translations — zh-tw. */
+export const zhTwForum: ForumPostPack = {
+  "can-custom-lobby-cheat-codes-be-used-in-ranked": {
+    "title": "可以在排位匹配中使用 Fortnite 作弊碼嗎？",
+    "excerpt": "練習大廳指南簡答：內建大廳指令僅在啟用作弊的自訂對戰中有效。",
+    "flair": "指南 Q&A",
+    "category": "一般",
+    "body": [
+      "不行。創意模式與機器人大廳僅供練習，不會帶入排位匹配或一般實例。",
+      "用創意模式學習瞄準平滑度、ESP 距離與裝備配置。指南也說明練習訓練與私人 Fortnite 外掛的差異。"
+    ],
+    "comments": [
+      {
+        "author": "mid_or_feed",
+        "age": "1 小時前",
+        "body": "正確：動排位預設前，先載入創意瞄準地圖或機器人大廳。"
+      },
+      {
+        "author": "ancient_archivist",
+        "age": "48 分鐘前",
+        "body": "指南涵蓋霰彈槍、狙擊與 AR 訓練。練完後排位預設保持保守。"
+      },
+      {
+        "author": "push_first",
+        "age": "35 分鐘前",
+        "body": "有用的區分。創意練習工具不是排位功能。"
+      }
+    ]
+  },
+  "how-to-enable-the-fortnite-2-console": {
+    "title": "如何開啟 Fortnite 開發者主控台？",
+    "excerpt": "開啟設定 → 選項 → 進階並啟用主控台。以下為教學中的快速設定。",
+    "flair": "指南 Q&A",
+    "category": "一般",
+    "body": [
+      "開啟設定，選擇選項，再進入進階選項並啟用開發者主控台。在自訂大廳中按下主控台鍵（通常是波浪鍵）並輸入指令。房主也需在在大廳設定中啟用作弊。",
+      "若指令無效，先確認該大廳已啟用作弊，並檢查指令語法。"
+    ],
+    "comments": [
+      {
+        "author": "pos4_roamer",
+        "age": "3 小時前",
+        "body": "若鍵盤沒有波浪鍵，可在熱鍵設定中重新指定主控台鍵。"
+      },
+      {
+        "author": "carry_curious",
+        "age": "2 小時前",
+        "body": "指令需要正確大廳權限；觀戰者可能無法使用經濟類指令。"
+      }
+    ]
+  },
+  "practice-fortnite-high-ground-safely": {
+    "title": "如何最安全地練習高點站位？",
+    "excerpt": "用創意模式或機器人大廳搭配 ESP 研究視線，再戰鬥時別一直盯著覆蓋層。",
+    "flair": "指南 Q&A",
+    "category": "指南與建造",
+    "body": [
+      "在創意模式或機器人大廳練習。短暫開啟 ESP 方框檢查高點角度與降落位置，再以最小化覆蓋層戰鬥。",
+      "重複相同圈路幾次，不用等完整排位對局也能記住視線。"
+    ],
+    "comments": [
+      {
+        "author": "stack_and_pull",
+        "age": "5 小時前",
+        "body": "我開 ESP 探頭，關掉方框再檢查同一角度。對高點掩護很有幫助。"
+      },
+      {
+        "author": "map_reader",
+        "age": "4 小時前",
+        "body": "在創意重複相同圈路，比只在排位裡學更好。"
+      }
+    ]
+  },
+  "what-to-check-after-a-fortnite-2-patch": {
+    "title": "Fortnite 更新後開玩前該檢查什麼？",
+    "excerpt": "更新日檢查清單建議：查看建置狀態、更新，並在排隊前於機器人大廳測試。",
+    "flair": "指南 Q&A",
+    "category": "更新討論",
+    "body": [
+      "先查看目前建置／狀態公告。遊戲更新後，等待相容建置、更新載入器，再在機器人或實例大廳驗證設定，然後回到排位。",
+      "若行為異常，先停下並閱讀狀態說明，別假設舊設定仍有效。檢查清單有更詳細的更新日流程。"
+    ],
+    "comments": [
+      {
+        "author": "farm_pattern",
+        "age": "8 小時前",
+        "body": "更新後排位前測試我以前會跳過。現在會看建置說明並快速跑一場機器人大廳。"
+      },
+      {
+        "author": "support_main_5",
+        "age": "7 小時前",
+        "body": "同意。若建置／狀態尚未跟上，就等。清單比瞎猜好。"
+      }
+    ]
+  },
+  "fortnite-2-lite-or-pro-hero-scripts": {
+    "title": "Lite 或 Pro：哪個等級包含玩家自瞄？",
+    "excerpt": "比較指南說明差異：Lite 偏重視覺工具；Pro 增加腳本模組。",
+    "flair": "指南 Q&A",
+    "category": "社群",
+    "body": [
+      "依比較指南，Lite 以地圖感知為主，如玩家 ESP、掉落與戰利品資訊、縮放與防直播選項。Pro 包含上述並加入玩家自瞄，如 Aimbot、Smooth Aim、Sticky Aim、Bone Priority 與熱鍵巨集。",
+      "最適合的等級取決於你需要的功能。選擇前請閱讀完整比較。"
+    ],
+    "comments": [
+      {
+        "author": "one_more_game",
+        "age": "10 小時前",
+        "body": "比較頁很有用，因為會列出各等級包含的模組，而不只是標題。"
+      }
+    ]
+  },
+  "how-to-learn-weapon-aim-in-creative": {
+    "title": "如何不等正式對局就練武器瞄準？",
+    "excerpt": "建立創意島或機器人大廳，用可重複重置訓練霰彈槍、狙擊與 AR 設定。",
+    "flair": "指南 Q&A",
+    "category": "指南與建造",
+    "body": [
+      "建立創意島或機器人大廳。一次練一種武器設定—霰彈槍、狙擊再 AR—每次嘗試間重置。",
+      "要接近實戰時機，在正式局啟用自瞄前，先在創意使用排位的平滑度數值。連結指南涵蓋完整練習流程。"
+    ],
+    "comments": [
+      {
+        "author": "mid_or_feed",
+        "age": "20 小時前",
+        "body": "從機器人目標開始，重複相同技能連段直到跟槍變成本能。"
+      },
+      {
+        "author": "ancient_archivist",
+        "age": "18 小時前",
+        "body": "排位預設保持保守—創意可能掩蓋重播裡瞄準看起來多突兀。"
+      }
+    ]
+  },
+  "what-does-fortnite-map-awareness-include": {
+    "title": "指南中的地圖感知包含什麼？",
+    "excerpt": "地圖感知指南中玩家、寶箱、戰利品與潛行資訊的快速整理。",
+    "flair": "指南 Q&A",
+    "category": "指南與建造",
+    "body": [
+      "指南涵蓋玩家 ESP、寶箱與重啟標記、戰利品資訊、潛行警示與最後目擊位置。具體選項依所選產品等級而定。",
+      "建議從簡潔版面開始，只啟用團戰中仍能舒適閱讀的資訊。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "保持覆蓋層清爽：從核心指示開始，再逐一調整距離與顯示設定。"
+      }
+    ]
+  },
+  "how-to-set-up-map-overlay": {
+    "title": "第一次如何設定地圖覆蓋層？",
+    "excerpt": "從基本顯示選項開始，在創意模式確認覆蓋層，再一次調一項設定。",
+    "flair": "指南 Q&A",
+    "category": "指南與建造",
+    "body": [
+      "依設定指南啟用覆蓋層、選擇易讀顏色，並確認指示不會遮住重要介面。",
+      "在正式對局依賴前，先在機器人大廳測試版面。簡單配置比一次開啟所有選項更容易理解。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "若螢幕太擠，先減少指示數量，再改大小或位置。"
+      }
+    ]
+  },
+  "what-zoom-settings-are-comfortable": {
+    "title": "什麼相機縮放設定比較舒服？",
+    "excerpt": "縮放指南著重找到能提升地圖情境、又不難操控角色的視角。",
+    "flair": "指南 Q&A",
+    "category": "指南與建造",
+    "body": [
+      "沒有適合所有人的理想縮放值。指南建議逐步調整，並確認仍能追蹤角色、武器射程與近距離交火。",
+      "保留快速恢復預設相機，以便比較更廣視野並回到熟悉的構圖。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "一次只改一步，在定下新相機距離前先玩一場短創意局。"
+      }
+    ]
+  },
+  "how-to-tune-script-delay-settings": {
+    "title": "延遲設定如何影響玩家自瞄？",
+    "excerpt": "關於時機、連招可讀性，以及自瞄指南為何建議保守調校的實用問題。",
+    "flair": "指南 Q&A",
+    "category": "指南與建造",
+    "body": [
+      "延遲設定控制自動動作之間的間隔。指南建議從較慢時機開始，並在變更前於練習環境測試。",
+      "一致的序列比一次改多個時機值更容易檢視與微調。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "記下每次嘗試的配置，以便回到上次表現符合預期的設定。"
+      }
+    ]
+  },
+  "how-to-practice-auto-combos": {
+    "title": "練自瞄的好方法？",
+    "excerpt": "用可重複的玩家設定學習序列，並在受控大廳檢查武器與物品時機。",
+    "flair": "指南 Q&A",
+    "category": "指南與建造",
+    "body": [
+      "每次選一個對手與一組連招練習。指南示範範例序列並說明目標選擇與技能順序如何配合。",
+      "自訂大廳可重複序列，在沒有正式對局壓力下看出哪些步驟需要調整。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "先學手動序列；這樣更容易發現配置時機錯誤。"
+      }
+    ]
+  },
+  "what-is-in-the-elite-tier": {
+    "title": "Elite 等級還包含哪些額外工具？",
+    "excerpt": "Elite 指南說明其額外實用模組與 Lite、Pro 功能集的比較。",
+    "flair": "指南 Q&A",
+    "category": "一般",
+    "body": [
+      "指南將 Elite 描述為 Lite 與 Pro 功能，加上 Loot Assist、Auto Finish、Auto Shield Break 與 Skin Changer 等額外工具。",
+      "也說明誰可能受益於額外模組，以及為何先理解較簡單功能集較合理。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "選等級前先比較包含功能與需求；完整比較已連結在指南中。"
+      }
+    ]
+  },
+  "how-do-lite-and-pro-differ": {
+    "title": "實務上 Lite 與 Pro 有何不同？",
+    "excerpt": "Lite 偏重感知功能，Pro 增加玩家腳本工具—簡短版。",
+    "flair": "指南 Q&A",
+    "category": "一般",
+    "body": [
+      "比較指南將 Lite 描述為聚焦 ESP、掉落與戰利品資訊、縮放等感知工具。Pro 在此基礎上增加技能自動化。",
+      "選擇取決於你只需要地圖資訊，還也要比較中所述的腳本模組。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "決定前用完整並排比較查看具體模組。"
+      }
+    ]
+  },
+  "what-to-know-about-skin-changer": {
+    "title": "關於 Skin Changer 工具該知道什麼？",
+    "excerpt": "產品指南說明外觀預覽如何運作，以及對該工具的合理期待。",
+    "flair": "指南 Q&A",
+    "category": "一般",
+    "body": [
+      "指南將 Skin Changer 描述為本機外觀預覽工具。說明設定、支援選項與如何恢復預設外觀。",
+      "使用前請閱讀相容性說明並遵循最新設定步驟。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "外觀變更為本機預覽；目前限制與設定步驟請見指南。"
+      }
+    ]
+  },
+  "what-to-do-if-eac-cannot-verify": {
+    "title": "若 Easy Anti-Cheat 無法驗證我的 Fortnite 安裝該怎麼辦？",
+    "excerpt": "在假設帳號受限前，先進行 Epic 檔案驗證並乾淨重開機。",
+    "flair": "指南 Q&A",
+    "category": "更新討論",
+    "body": [
+      "疑難排解指南指出，此訊息可能來自遊戲檔案問題或軟體衝突，不一定代表帳號封禁。請先透過 Epic Games Launcher 驗證 Fortnite 檔案。",
+      "也建議完全退出 Fortnite 客戶端、重開電腦，並在更激烈步驟前檢查衝突的覆蓋層。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "在啟動其他軟體前，先測試正常 Epic 啟動以縮小原因範圍。"
+      }
+    ]
+  },
+  "how-does-an-external-loader-work": {
+    "title": "「external loader」是什麼意思？",
+    "excerpt": "外部軟體指南解釋該術語並概述站上的通用設定。",
+    "flair": "指南 Q&A",
+    "category": "一般",
+    "body": [
+      "文章用「external」描述與 Fortnite 程序分開執行、並以覆蓋層呈現介面的軟體。",
+      "從高層說明架構，並解釋設定、更新修補，以及外部與內部工具的差異。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "Fortnite 每次更新時請檢查相容性與目前狀態資訊。"
+      }
+    ]
+  },
+  "how-to-check-stream-proof-capture": {
+    "title": "如何確認 OBS 是否會錄到覆蓋層？",
+    "excerpt": "防直播設定指南建議開播前錄一段短測試並檢查回放。",
+    "flair": "指南 Q&A",
+    "category": "指南與建造",
+    "body": [
+      "用你打算直播的 OBS 場景與擷取模式錄一段本機短測試，再檢查回放是否出現覆蓋層元素。",
+      "指南建議分別測試遊戲擷取與顯示器擷取，因擷取方式與多螢幕設定行為可能不同。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "別只信預覽；請檢查你打算直播的同場景已存錄影。"
+      }
+    ]
+  },
+  "what-to-do-after-hwid-change": {
+    "title": "換電腦或硬體後該檢查什麼？",
+    "excerpt": "HWID 指南涵蓋常見設定檢查，以及何時聯絡支援進行帳號或裝置重置。",
+    "flair": "指南 Q&A",
+    "category": "一般",
+    "body": [
+      "先查看產品的帳號與裝置說明。指南解釋常見 HWID 問題，以及何時可能需要重置申請。",
+      "避免一次改多項系統設定。若產品無法辨識裝置，請帶錯誤詳情聯絡支援。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "裝置重置請走官方支援管道，勿依賴無關工具。"
+      }
+    ]
+  },
+  "what-to-check-before-installing-tools": {
+    "title": "安裝新工具前該審閱什麼？",
+    "excerpt": "繼續前請查看官方設定步驟、目前相容性說明與支援資訊。",
+    "flair": "指南 Q&A",
+    "category": "社群",
+    "body": [
+      "先閱讀功能與設定資訊，確認符合你的系統，並查看目前更新／狀態說明。",
+      "站內指南描述可用功能群組，並連結各模組的更詳細設定文章。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "以連結的產品與支援頁為目前可用性與相容性的準據。"
+      }
+    ]
+  },
+  "how-to-choose-fortnite-2-product-tier": {
+    "title": "如何選擇合適的 Fortnite 產品等級？",
+    "excerpt": "先比較功能集，再依選擇遵循官方結帳與設定說明。",
+    "flair": "指南 Q&A",
+    "category": "社群",
+    "body": [
+      "購買指南建議先比較包含功能並選擇符合需求的等級，再進行官方結帳。",
+      "涵蓋購買流程、帳號存取、下載目前建置，以及啟動前檢查設定。"
+    ],
+    "comments": [
+      {
+        "author": "guide_team",
+        "age": "摘自指南",
+        "body": "若有付款或帳號問題，請用站內支援頁，勿公開分享購買細節。"
+      }
+    ]
+  }
+};

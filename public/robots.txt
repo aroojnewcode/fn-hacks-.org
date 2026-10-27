@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+Disallow: /go/
+
+Sitemap: https://fnhacks.org/sitemap.xml
+Sitemap: https://fnhacks.org/sitemap-en.xml
+Sitemap: https://fnhacks.org/sitemap-ko.xml
+Sitemap: https://fnhacks.org/sitemap-zh-tw.xml
+Sitemap: https://fnhacks.org/sitemap-de.xml
+Sitemap: https://fnhacks.org/sitemap-pt-br.xml
+Sitemap: https://fnhacks.org/sitemap-th.xml
+Sitemap: https://fnhacks.org/sitemap-ja.xml
+Sitemap: https://fnhacks.org/sitemap-es.xml
+Sitemap: https://fnhacks.org/sitemap-fr.xml
+Sitemap: https://fnhacks.org/sitemap-pages.xml
+Sitemap: https://fnhacks.org/sitemap-products.xml
+Sitemap: https://fnhacks.org/sitemap-blog.xml
+Sitemap: https://fnhacks.org/sitemap-forum.xml
+
+# RSS: https://fnhacks.org/rss.xml

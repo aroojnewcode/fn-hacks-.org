@@ -22,6 +22,8 @@ interface Props {
   contentAlign?: 'left' | 'center';
   id?: string;
   class?: string;
+  /** Hide eyebrow/title/subtitle block (e.g. dedicated /faq/ page uses breadcrumbs only). */
+  hideHeader?: boolean;
 }
 
 const {
@@ -36,6 +38,7 @@ const {
   contentAlign = 'center',
   id: sectionId,
   class: className,
+  hideHeader = false,
 } = Astro.props;
 
 const topicLabels: Record<FaqTopic, string> = {
@@ -55,24 +58,30 @@ const filters = filterTopics ?? (['all', 'plans', 'esp', 'scripts', 'safety', 'p
 <section
   id={sectionId}
   class:list={['py-16 md:py-24', className]}
-  aria-labelledby={titleId}
+  aria-labelledby={hideHeader ? undefined : titleId}
+  aria-label={hideHeader ? eyebrow : undefined}
   data-faq-section={showFilters ? '' : undefined}
 >
   <div class="mx-auto max-w-6xl px-5">
     <div class:list={[contentAlign === 'center' && 'mx-auto max-w-3xl', contentAlign === 'left' && 'product-detail__narrow max-w-3xl']}>
-    <SectionHeader
-      eyebrow={eyebrow}
-      title={title}
-      desc={subtitle}
-      titleId={titleId}
-      centered={centered}
-    />
+    {
+      !hideHeader && (
+        <SectionHeader
+          eyebrow={eyebrow}
+          title={title}
+          desc={subtitle}
+          titleId={titleId}
+          centered={centered}
+        />
+      )
+    }
 
     {
       showFilters && (
         <div
           class:list={[
-            'mt-8 flex flex-wrap gap-2',
+            'flex flex-wrap gap-2',
+            hideHeader ? 'mt-0' : 'mt-8',
             contentAlign === 'center' ? 'justify-center' : 'justify-start',
           ]}
           data-faq-filters

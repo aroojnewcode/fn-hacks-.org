@@ -4,8 +4,8 @@ import { getAllFaqs } from '../data/faq';
 import { resolvePageSeo } from '../config/seo';
 import { breadcrumbSchema, faqPageSchema, webPageSchema } from '../utils/schema';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
-import SiteFaqSection from '../components/SiteFaqSection.astro';
 import SectionHeader from '../components/SectionHeader.astro';
+import SiteFaqSection from '../components/SiteFaqSection.astro';
 import { getTranslations } from '../i18n';
 import { localizeFaqItems } from '../i18n/faq-full';
 
@@ -58,8 +58,6 @@ const faqs = localizeFaqItems(locale, getAllFaqs());
     items={faqs}
     variant="full"
     titleId="faq-page-list"
-    eyebrow={t.faq.eyebrow}
-    title={t.faq.title}
-    subtitle={t.faq.subtitle}
+    hideHeader
   />
 </BaseLayout>

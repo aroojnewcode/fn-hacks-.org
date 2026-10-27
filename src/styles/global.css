@@ -285,6 +285,212 @@ a.nav-link[data-nav-link].is-active:hover {
   color: var(--primary);
 }
 
+/* Site header — grid bar; inline nav only when there is room (xl+) */
+.site-header-bar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.5rem;
+  height: 3.5rem;
+  padding: 0 0.75rem;
+  border-radius: 1rem;
+  border: 1px solid color-mix(in oklch, var(--border) 40%, transparent);
+  background: color-mix(in oklch, var(--background) 35%, transparent);
+  color: var(--foreground);
+  box-shadow:
+    0 4px 6px -1px rgb(0 0 0 / 0.05),
+    0 2px 4px -2px rgb(0 0 0 / 0.05);
+  backdrop-filter: blur(24px);
+}
+
+html.dark .site-header-bar {
+  border-color: rgb(255 255 255 / 0.1);
+  background: color-mix(in oklch, var(--background) 20%, transparent);
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.25);
+}
+
+@media (min-width: 640px) {
+  .site-header-bar {
+    gap: 0.75rem;
+    padding: 0 1rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .site-header-bar {
+    height: 3.75rem;
+    padding: 0 1.25rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .site-header-bar {
+    grid-template-columns: 10.5rem minmax(0, 1fr) auto;
+    column-gap: 0.5rem;
+  }
+}
+
+.site-header-logo {
+  display: inline-flex;
+  min-width: 0;
+  max-width: 100%;
+  align-items: center;
+  gap: 0.5rem;
+  justify-self: start;
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.025em;
+  text-decoration: none;
+  color: inherit;
+}
+
+@media (min-width: 640px) {
+  .site-header-logo {
+    gap: 0.625rem;
+    font-size: 1.125rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .site-header-logo {
+    grid-column: 1;
+    width: 10.5rem;
+    max-width: 10.5rem;
+  }
+}
+
+.site-header-logo__img {
+  width: 2rem;
+  height: 2rem;
+  flex-shrink: 0;
+  border-radius: 0.5rem;
+  border: 1px solid color-mix(in oklch, var(--border) 60%, transparent);
+  object-fit: cover;
+  box-shadow: 0 0 0 1px color-mix(in oklch, var(--primary) 20%, transparent);
+}
+
+@media (min-width: 640px) {
+  .site-header-logo__img {
+    width: 2.25rem;
+    height: 2.25rem;
+  }
+}
+
+.site-header-logo__text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.site-header-nav {
+  display: none;
+}
+
+@media (min-width: 1280px) {
+  .site-header-nav {
+    grid-column: 2;
+    display: flex;
+    min-width: 0;
+    align-items: center;
+    justify-content: center;
+    gap: 0.125rem;
+  }
+}
+
+.site-header-nav__link {
+  display: inline-flex;
+  height: 2.25rem;
+  max-width: 7.5rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.375rem;
+  padding: 0 0.375rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+  color: var(--muted-foreground);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.site-header-nav__link:hover {
+  color: var(--primary);
+}
+
+.site-header-nav__label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.site-header-end {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  justify-self: end;
+}
+
+@media (min-width: 1280px) {
+  .site-header-end {
+    grid-column: 3;
+  }
+}
+
+.site-header-actions {
+  display: none;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+@media (min-width: 640px) {
+  .site-header-actions {
+    display: flex;
+  }
+}
+
+.site-header-cta.slide-reveal-btn {
+  width: 8.75rem;
+  min-width: 8.75rem;
+  max-width: 8.75rem;
+  height: 2.25rem;
+}
+
+.site-header-cta .slide-reveal-btn__text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.8125rem;
+}
+
+.site-header-sheet {
+  display: block;
+}
+
+@media (min-width: 1280px) {
+  .site-header-sheet {
+    display: none;
+  }
+}
+
+.site-header-menu-btn {
+  display: inline-flex;
+  width: 2.25rem;
+  height: 2.25rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+  border: 1px solid color-mix(in oklch, var(--border) 80%, transparent);
+  background: color-mix(in oklch, var(--background) 50%, transparent);
+  color: var(--foreground);
+  transition: background-color 0.15s ease;
+}
+
+.site-header-menu-btn:hover {
+  background: var(--muted);
+}
+
 a.nav-link[data-nav-link] .icon-app {
   color: currentColor;
 }

@@ -20,6 +20,7 @@ interface Props {
   eyebrow?: string;
   title?: string;
   subtitle?: string;
+  hideHeader?: boolean;
 }
 
 const {
@@ -32,6 +33,7 @@ const {
   eyebrow: eyebrowProp,
   title: titleProp,
   subtitle: subtitleProp,
+  hideHeader = false,
 } = Astro.props;
 
 const copy = variant === 'full' ? SITE_FAQ_SECTION_COPY : CONTEXTUAL_FAQ_SECTION_COPY;
@@ -50,4 +52,5 @@ const showFilters = filterTopics.length > 1;
   showFilters={showFilters}
   filterTopics={filterTopics}
   class={className}
+  hideHeader={hideHeader}
 />

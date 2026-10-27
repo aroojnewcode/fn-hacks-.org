@@ -28,14 +28,10 @@ export const PATH_REDIRECTS = new Map([
   ['/products/dota-2-cheats/elite/', '/products/fortnite-cheats/elite/'],
   ['/products/dota-2-cheats/utilities', '/products/fortnite-cheats/utilities/'],
   ['/products/dota-2-cheats/utilities/', '/products/fortnite-cheats/utilities/'],
-  ['/products/fortnite-cheats', '/products/fortnite-cheats/'],
-  ['/products/fortnite-cheats/', '/products/fortnite-cheats/'],
   ['/products/fortnite-cheats/elite', '/products/fortnite-cheats/elite/'],
   ['/products/fortnite-cheats/elite/', '/products/fortnite-cheats/elite/'],
   ['/products/fortnite-cheats/utilities', '/products/fortnite-cheats/utilities/'],
   ['/products/fortnite-cheats/utilities/', '/products/fortnite-cheats/utilities/'],
-  ['/go/fortnite', '/go/fortnite/'],
-  ['/go/fortnite/', '/go/fortnite/'],
 ]);
 
 /** Paths that should not receive a forced trailing slash. */
